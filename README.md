@@ -1,2 +1,2 @@
 # EclairAI
-W sensie to nie jest prawdziwe AI cn, ja już bym to zrobił w sieci neuronowej, ale ludzie chcą to orygialne eclairAI więc robię to w ten sposób dobra? dobra 🥀
+Zmieniłem zdanie i w tym tygodniu zaczne robić sieć neuronową dla małego modelu językowego, zobaczymy jak pójdzie
